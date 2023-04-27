@@ -1,5 +1,5 @@
-﻿/// pen2023.js
-function() {
+/// pen2023.js
+
  'use strict';
 // Закрываю банер из голосования "Королевское предложение" в ротаторе
 var fs;
@@ -3201,4 +3201,4 @@ setInterval(function (){
             element.style[cssPrefixes[i] + (cssPrefixes[i] ? 'Transition' : 'transition')] = transitionStyle;
         }
     }
-})(window.hothearts);}
+})(window.hothearts);
